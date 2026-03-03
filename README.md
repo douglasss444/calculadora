@@ -12,7 +12,8 @@ Mapa:
 Requisitos:
 
 • Requisitos funcionais:
+- Adicionar os digitos +, -, 1, 2...
 
 • Requisitos não funcionais:
-- Adicionar os digitos +, -, 1, 2...
-- Mesma aparência no Android e IOS.
+- Design responsivo
+- Layout do app baseado no protótipo desenvolvido

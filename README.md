@@ -1,8 +1,5 @@
 App Calculadora
 
-
-### 📂 Estrutura do Projeto
-
 ```text
 
 Mapa:
